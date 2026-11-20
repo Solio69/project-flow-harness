@@ -1,0 +1,3 @@
+interface:
+  display_name: "Создать проект"
+  short_description: "Создать проект с иконкой и разделом в списке дел"
